@@ -1,2 +1,2 @@
 # AI-ML-internship
-AI/ML Internship tasks and projects - Sristi Innovative
+AI/ML Internship tasks and projects - Srishti Innovative
